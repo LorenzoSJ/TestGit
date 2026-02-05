@@ -13,7 +13,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 /**
  *
- * @author LorenzoSJ
+ * @author Lorenzo San Juan
  */
 public class UnitTestDemoTest {
     
