@@ -6,7 +6,7 @@ package com.mycompany.unittestdemo;
 
 /**
  *
- * @author LorenzoSJ
+ * @author Lorenzo San Juan
  */
 public class UnitTestDemo {
 
